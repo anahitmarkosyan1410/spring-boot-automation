@@ -1,0 +1,6 @@
+com/automation/demo/pages/ProductsPage.class
+com/automation/demo/pages/LoginPage.class
+com/automation/demo/driver/DriverManager.class
+com/automation/demo/ConfigManager.class
+com/automation/demo/pages/BasePage.class
+com/automation/demo/AutomationDemoVersionApplication.class
